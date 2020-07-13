@@ -1,0 +1,15 @@
+{
+  "name": "gerar-pdf",
+  "version": "1.0.0",
+  "description": "gerador de pdf a partir de um html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bryan Diniz",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.3",
+    "html-pdf": "^2.2.0"
+  }
+}
